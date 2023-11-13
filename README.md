@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **FastAPI**
 
-- 📫 How to reach me **killking7240@gmail.com**
+- 📫 How to reach me **sairajiv92@gmail.com**
 
 - ⚡ Fun fact **I think me = funny ^_^**
 
