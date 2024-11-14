@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm S. Sai Rajiv</h1>
-<h3 align="center">I am pre-final year B. Tech CSE student who is interested in backend web development and machine learning!</h3>
+<h3 align="center">I am final year B. Tech CSE student who is interested in backend web development, machine learning, deep learning, aritifical intelligence and natural langugage processing!!</h3>
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 💬 Ask me about **FastAPI**
 
-- 📫 How to reach me **killking7240@gmail.com**
+- 📫 How to reach me **sairajiv92@gmail.com**
 
 - ⚡ Fun fact **I think me = funny ^_^**
 
